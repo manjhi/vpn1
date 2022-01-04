@@ -12,5 +12,6 @@
   "free":[
     {"id":0, "file":0, "city":"Miami","country":"US","image":"germany","ip":"199.187.208.79","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Frankfurt","country":"DE","image":"germany","ip":"185.225.210.177","active":"true","signal":"b"}
+    
   ]
 }
