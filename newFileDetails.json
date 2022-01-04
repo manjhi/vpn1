@@ -1,0 +1,17 @@
+  
+{
+  "ads":"true",
+  "update":[{
+    "version":"1.0",
+    "title":"This app is now Open Source",
+    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
+    "size":"https://git.io/JeY69"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.chrome"}
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"Miami","country":"US","image":"germany","ip":"199.187.208.79","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Frankfurt","country":"DE","image":"germany","ip":"185.225.210.177","active":"true","signal":"b"}
+  ]
+}
